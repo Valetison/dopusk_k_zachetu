@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <disc.h>
+#include "disc.h"
 int main(int argc, char *argv[])
 {
 	double e;
