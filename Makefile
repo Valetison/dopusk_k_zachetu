@@ -17,7 +17,7 @@ maintest.o: maintest.c
 	gcc -c maintest.c -o maintest.o
 
 disctest.o: disctest.c
-	gcc -c disctest.c -o disctet.o
+	gcc -c disctest.c -o disctest.o
 
 .PHONY: clean
 
